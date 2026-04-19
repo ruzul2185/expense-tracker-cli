@@ -1,3 +1,4 @@
+
 # Expense Tracker CLI
 
 A simple and efficient command-line expense tracker built with Rust. This tool allows you to manage your daily expenses directly from the terminal with support for adding, updating, deleting, listing, and summarizing expenses.
@@ -13,6 +14,16 @@ A simple and efficient command-line expense tracker built with Rust. This tool a
 * View total expense summary (overall or by month)
 * Persistent storage using JSON
 * Input validation and error handling
+
+---
+
+## 📌 Project Inspiration
+
+This project is based on the **Expense Tracker CLI challenge** from roadmap.sh, which is designed to help developers practice building CLI applications with file handling and basic CRUD operations.
+
+👉 https://roadmap.sh/projects/expense-tracker
+
+The challenge includes features like adding, updating, deleting, listing, and summarizing expenses, making it a great beginner-friendly project for improving logic and CLI skills ([roadmap.sh][1]).
 
 ---
 
@@ -140,3 +151,5 @@ Developed as a simple Rust CLI project to practice file handling, struct design,
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+
+[1]: https://roadmap.sh/projects/expense-tracker?utm_source=chatgpt.com "Expense Tracker"
