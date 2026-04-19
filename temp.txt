@@ -1,0 +1,17 @@
+Users can add expenses
+
+expense is our struct
+
+expense {
+    id,
+    date,
+    description,
+    amount,
+}
+
+add function (description, amount) // id and date should be assigned and handled by the system
+update function (id, description?, amount?)
+delete function (id)
+list function () // show all the data in a clean format
+summary function (month?: number) // show sum of total expense with additional option for month
+
